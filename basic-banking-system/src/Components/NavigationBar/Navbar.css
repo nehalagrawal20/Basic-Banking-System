@@ -1,0 +1,28 @@
+.logo{
+    font-size: 1.5rem;
+    padding-left: 2rem;
+}
+.home-history{
+    font-size: 1rem;
+}
+.bank-links{
+    color:#ffffff !important;
+    margin:auto;
+    padding-left: 2rem !important;
+    
+}
+.NavigationBar{
+    background-color: #000000 !important;
+}
+
+.sparks{
+    color: #0C4B8D !important;
+}
+
+.bank{
+    color:#B32F38 !important;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+}
